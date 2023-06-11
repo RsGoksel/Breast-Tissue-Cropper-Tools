@@ -7,11 +7,12 @@ import time
 import cv2
 import os
 import numpy as np
+
 import pydicom
 from pydicom.pixel_data_handlers.util import apply_voi_lut
+
 from PIL import Image
-import zipfile
-import torch
+
 
 model = torch.hub.load("ultralytics/yolov5", "yolov5n")
 model = torch.hub.load('./', 'custom', path='Breast_Cropper.pt', source='local')
