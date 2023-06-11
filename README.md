@@ -1,2 +1,7 @@
 # Breast-Tissue-Cropper-Tools
 Tools for breast mammogram image and image processing projects
+
+"Breast_Cropper.pt model is for cropping breast tissues from mammograms.
+Breast ![Model_Output](https://github.com/RsGoksel/Breast-Tissue-Cropper-Tools/assets/80707238/db080b43-0549-416c-a980-3884823ad3e4)
+
+Additionaly, there are tools for removing pectoral muscle, crop, ROI crop etc. There are images ind "Images" folder for that.  
