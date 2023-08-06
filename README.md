@@ -1,4 +1,4 @@
-# Breast-Tissue-Cropper-Tools
+# Breast-Tissue-Cropper-ML-Tools
 Tools for breast mammogram image and image processing projects
 
 "Breast_Cropper" PyTorch model is designed for the purpose of cropping breast tissues from mammograms.
